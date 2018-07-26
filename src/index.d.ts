@@ -1818,6 +1818,7 @@ export type SemanticICONS =
   | 'cc paypal'
   | 'cc stripe'
   | 'cc visa'
+  | 'cc unionpay'
   | 'add circle'
   | 'add square'
   | 'add to calendar'
