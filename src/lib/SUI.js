@@ -1494,6 +1494,7 @@ export const BRANDS = [
   'cc paypal',
   'cc stripe',
   'cc visa',
+  'cc unionpay',
   'centercode',
   'chrome',
   'cloudscale',
